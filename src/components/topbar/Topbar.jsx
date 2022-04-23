@@ -3,9 +3,9 @@ import {PersonOutline,MailOutline,Instagram,WorkOutline} from "@material-ui/icon
 
 export default function Topbar({menuOpen,setMenuOpen}) {
   return (
-    <div className={"topbar " + (menuOpen && "active")} >
+    <div className={"topbar " + (menuOpen && "active")}  >
       <div className="wrapper">
-        <div className="left">
+        <div className="left" >
           <a href="#intro" className="logo">Redoksu.</a>
           <div className="itemContainer">
           <PersonOutline className="icon"/>
