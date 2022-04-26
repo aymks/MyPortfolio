@@ -1,29 +1,11 @@
 @import "../../global.scss";
 
+
+
 .intro{
-    
-//$bg-url: "https://www.toptal.com/designers/subtlepatterns/uploads/fancy-cushion.png";
-
-  $bg-width: 50px;
-  $bg-height: 50px;
-
-@keyframes bg-scrolling-reverse {
-  100% {
-    background-position: $bg-width $bg-height;
-  }
-}
-@keyframes bg-scrolling {
-  0% {
-    background-position: $bg-width $bg-height;
-  }
   
-}
 
-  //background: url($bg-url) repeat 0 0;
-  background: url(/./components/intro/ad.png) repeat 0 0;
-
-  animation: bg-scrolling-reverse 0.6s infinite; /* IE 10+ */
-  animation-timing-function: linear;
+  
 
   
 
@@ -33,11 +15,11 @@
       
       overflow: hidden;
       user-select: none;
-      font-size: 10vh;
+      font-size: calc(60px + 8 * ((100vw - 320px) / 680));
       font-style: italic;
       font-weight: 500;
-      -webkit-text-stroke: 1.5px rgb(0, 0, 0);
-      -webkit-text-fill-color: rgba(255, 255, 255, 0);
+      -webkit-text-stroke: 1.5px rgb(136, 136, 136);
+      -webkit-text-fill-color: rgba(0, 0, 0, 0);
       
         
 
