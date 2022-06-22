@@ -1,13 +1,14 @@
 {
   "files": {
     "main.css": "/MyPortfolio/static/css/main.af0d78c2.css",
-    "main.js": "/MyPortfolio/static/js/main.332b9c4b.js",
-    "static/media/MuesemPage.png": "/MyPortfolio/static/media/MuesemPage.01e068356b59a22488d1.png",
-    "static/media/galleryapp.PNG": "/MyPortfolio/static/media/galleryapp.7367a0d4bb745ec5fcc0.PNG",
-    "static/media/game1.PNG": "/MyPortfolio/static/media/game1.6405057cf33a26e0c5cf.PNG",
-    "static/media/guess.PNG": "/MyPortfolio/static/media/guess.547f35d4f725698bf52d.PNG",
+    "main.js": "/MyPortfolio/static/js/main.97a6afec.js",
+    "static/media/galleryapp.PNG": "/MyPortfolio/static/media/galleryapp.eb66c98bdff82617a85f.PNG",
+    "static/media/MuesemPage.png": "/MyPortfolio/static/media/MuesemPage.961abe08219b76a82cd4.png",
+    "static/media/weatherapp.png": "/MyPortfolio/static/media/weatherapp.e7184f9ced0196941e6d.png",
     "static/media/react.png": "/MyPortfolio/static/media/react.c10b48ed20ba1e5a05a3.png",
+    "static/media/game1.PNG": "/MyPortfolio/static/media/game1.2a3048d6e8f7c6bff645.PNG",
     "static/media/csh.png": "/MyPortfolio/static/media/csh.46f396e66998a55f511a.png",
+    "static/media/guess.PNG": "/MyPortfolio/static/media/guess.d6a11fcea04139d94f16.PNG",
     "static/media/jquery.png": "/MyPortfolio/static/media/jquery.b121b212da4345cefb4a.png",
     "static/media/python.png": "/MyPortfolio/static/media/python.be209286fa2769c0af82.png",
     "static/media/php.png": "/MyPortfolio/static/media/php.1b5edc9de0696b35cc46.png",
@@ -22,10 +23,10 @@
     "static/media/2.jpg": "/MyPortfolio/static/media/2.ff6c6b307c6121d28599.jpg",
     "index.html": "/MyPortfolio/index.html",
     "main.af0d78c2.css.map": "/MyPortfolio/static/css/main.af0d78c2.css.map",
-    "main.332b9c4b.js.map": "/MyPortfolio/static/js/main.332b9c4b.js.map"
+    "main.97a6afec.js.map": "/MyPortfolio/static/js/main.97a6afec.js.map"
   },
   "entrypoints": [
     "static/css/main.af0d78c2.css",
-    "static/js/main.332b9c4b.js"
+    "static/js/main.97a6afec.js"
   ]
 }
