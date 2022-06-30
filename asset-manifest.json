@@ -1,23 +1,24 @@
 {
   "files": {
     "main.css": "/MyPortfolio/static/css/main.8dd52478.css",
-    "main.js": "/MyPortfolio/static/js/main.370b8db9.js",
+    "main.js": "/MyPortfolio/static/js/main.57cd82f0.js",
     "static/media/forcast.gif": "/MyPortfolio/static/media/forcast.ce78995d810985ac3133.gif",
     "static/media/game1.gif": "/MyPortfolio/static/media/game1.2d445d9aada95c09b25b.gif",
     "static/media/MyCv.pdf": "/MyPortfolio/static/media/MyCv.a423424af13f4755c83a.pdf",
     "static/media/MuesemPage.png": "/MyPortfolio/static/media/MuesemPage.961abe08219b76a82cd4.png",
-    "static/media/mforcast.jpg": "/MyPortfolio/static/media/mforcast.9d77693ecafae088ed4a.jpg",
     "static/media/mgalleryapp.jpeg": "/MyPortfolio/static/media/mgalleryapp.76903663250dfa4ec622.jpeg",
     "static/media/galleryapp.jpg": "/MyPortfolio/static/media/galleryapp.e0623c218ec1601ff55c.jpg",
+    "static/media/mforcast.jpg": "/MyPortfolio/static/media/mforcast.51c46dfb7388ddc27785.jpg",
     "static/media/guess.png": "/MyPortfolio/static/media/guess.d6a11fcea04139d94f16.png",
     "static/media/weatherapp.png": "/MyPortfolio/static/media/weatherapp.04d1eaf34624b9c6b7c5.png",
+    "static/media/Mus.JPG": "/MyPortfolio/static/media/Mus.62e9c1af267275a4270f.JPG",
     "static/media/2.jpg": "/MyPortfolio/static/media/2.ff6c6b307c6121d28599.jpg",
     "index.html": "/MyPortfolio/index.html",
     "main.8dd52478.css.map": "/MyPortfolio/static/css/main.8dd52478.css.map",
-    "main.370b8db9.js.map": "/MyPortfolio/static/js/main.370b8db9.js.map"
+    "main.57cd82f0.js.map": "/MyPortfolio/static/js/main.57cd82f0.js.map"
   },
   "entrypoints": [
     "static/css/main.8dd52478.css",
-    "static/js/main.370b8db9.js"
+    "static/js/main.57cd82f0.js"
   ]
 }
